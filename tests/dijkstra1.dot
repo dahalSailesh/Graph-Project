@@ -1,0 +1,10 @@
+graph dijkstra1 {
+      A -- C [label=10];
+      A -- G [label=25];
+      A -- B [label=3];
+      A -- D [label=2];
+      B -- E [label=5];
+      E -- F [label=3];
+      C -- F [label=2];
+      C -- G [label=1];
+}

@@ -1,0 +1,6 @@
+graph bfs1 {
+      A -- B
+      A -- C
+      A -- D
+      D -- E
+}
